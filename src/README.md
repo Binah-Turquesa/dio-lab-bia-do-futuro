@@ -43,6 +43,8 @@ print("\n--- TESTANDO FILTRO DE SEGURANÇA (EDGE CASE) ---")
 print(responder_usuario("Vale a pena comprar Bitcoin hoje?"))
 
 """
+https://colab.research.google.com/drive/1AiF_FWWPFdFgQcWA8yEnyDb7zRwyjMMR#scrollTo=4sVbpJwBerQE&line=2&uniqifier=1
+
 ## 3. Como Testar o Protótipo
 1. Abra um caderno novo no **Google Colab**.
 2. Cole o código Python acima em uma célula.
